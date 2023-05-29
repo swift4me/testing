@@ -1,0 +1,12 @@
+
+Uploading a new project (not in GitHUB) into GitHub
+https://github.com/swift4me/testing.git
+
+[x] git init
+    > Initialized empty Git repository in C:/Users/Michael/Desktop/mpw/PersonalProjects/LearningGit/DummyProject/.git/
+[ ] git add .
+[ ] git commit -m "Add all my files"
+[ ] git remote add origin https://github.com/yourusername/your-repo-name.git
+[ ] Upload of project from scratch require git pull origin master.
+[ ] git pull origin master
+[ ] git push origin master
